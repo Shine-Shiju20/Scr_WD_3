@@ -11,6 +11,8 @@ The Game is won by using X,O vertically or horizontally or diagonally when 3X's 
 Technology Stack:
 HTML CSS JavaScript
 
+LinkedIn: https://www.linkedin.com/posts/shine-shiju-821652256_skillcrafttechnology-activity-7264702438509539328-2xz3?utm_source=share&
+
 Author- SHINE SHIJU 
 shineshiju2005@gmail.com 
 
